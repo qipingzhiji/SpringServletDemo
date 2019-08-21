@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringEmpDemo/SpringEmpDemo.iml" filepath="$PROJECT_DIR$/SpringEmpDemo/SpringEmpDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringServletDemo.iml" filepath="$PROJECT_DIR$/SpringServletDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringWebDemo/SpringWebDemo.iml" filepath="$PROJECT_DIR$/SpringWebDemo/SpringWebDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springmvcDemo/springmvcDemo.iml" filepath="$PROJECT_DIR$/springmvcDemo/springmvcDemo.iml" />
     </modules>
   </component>
 </project>
